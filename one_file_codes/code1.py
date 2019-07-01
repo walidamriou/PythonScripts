@@ -7,7 +7,6 @@ Created on Mon Jul  1 17:08:56 2019
 """
 
 from Tkinter import *
-from Tkinter import *
 import Tkinter, Tkconstants, tkFileDialog
 
 root = Tk()
